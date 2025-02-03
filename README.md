@@ -67,3 +67,7 @@ This project focuses on **interpretable models** such as **decision trees**, as 
 - Implemented **Gradient Boosting Trees** with **L1-penalized regression** at each node.
 - Used **XGBoost** to fit the model and tuned **α (regularization term)** via cross-validation.
 - Analyzed feature importance from the boosting model.
+
+  ---
+## 📌 **Note**
+This repository contains a **Jupyter Notebook** detailing each step, along with **results and visualizations**.
